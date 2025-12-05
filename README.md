@@ -3,7 +3,7 @@
 Proyecto: Detección de placas vehiculares usando YOLO. Repositorio con backend (modelo/API) y aplicación móvil (frontend) que consume la API y muestra las detecciones.
 
 ## Integrantes
-- pendiente — Andres Ariza
+- U00188228 — Andres Ariza
 - U00185389 — Cristian Camilo Valencia
 
 ## Estructura del repositorio
@@ -77,9 +77,7 @@ Vistas previas relativas (si GitHub las muestra):
 - Este repositorio contiene la aplicación móvil, el backend y la evidencia solicitada por la práctica.
 
 ## Contacto
-- Andres Ariza — (ID: pendiente)
+- Andres Ariza — (ID: U00188228)
 - Cristian Camilo Valencia — (ID: U00185389)
 
 ---
-
-Commit realizado automáticamente para actualizar README con instrucciones y rutas de evidencia.
